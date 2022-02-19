@@ -1,5 +1,5 @@
 {
-  "name": "vite-map-app",
+  "name": "csv-app",
   "version": "1.0.0",
   "scripts": {
     "build": "vite build",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/COV-GIS/vite-map-app.git"
+    "url": "git+https://github.com/COV-GIS/csv-app.git"
   },
   "author": "COV-GIS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/COV-GIS/vite-map-app/issues"
+    "url": "https://github.com/COV-GIS/csv-app/issues"
   },
-  "homepage": "https://github.com/COV-GIS/vite-map-app#readme",
+  "homepage": "https://github.com/COV-GIS/csv-app#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.12.0",
     "@typescript-eslint/parser": "^5.12.0",
